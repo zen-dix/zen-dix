@@ -22,11 +22,11 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ### Featured Projects
 
-- **[my-python-journey**](https://github.com/zen-dix/my-python-journey) — My daily coding journey and backend experiments
+- [my-python-journey](https://github.com/zen-dix/my-python-journey) — My daily coding journey and backend experiments
 
-- **[olimpiad\_tasks**](https://github.com/zen-dix/olimpiad_tasks) — Solutions for olympiad and algorithmic problems
+- [olimpiad\_tasks](https://github.com/zen-dix/olimpiad_tasks) — Solutions for olympiad and algorithmic problems
 
-- **[todo-cli**](https://github.com/zen-dix/todo-cli) — Functional command-line task manager
+- [todo-cli](https://github.com/zen-dix/todo-cli) — Functional command-line task manager
 
 ### Tech & Environment
 
