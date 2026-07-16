@@ -28,6 +28,8 @@ I enjoy solving problems through code and building tools that are both simple an
 
 - [todo-cli](https://github.com/zen-dix/todo-cli) — Functional command-line task manager
 
+-  [CLI-Local-Monkeytype](https://github.com/zen-dix/CLI-Local-Monkeytype) — Command-line typing test
+
 ### Tech & Environment
 
 - **Primary language**: Python 3
