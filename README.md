@@ -24,11 +24,13 @@ I enjoy solving problems through code and building tools that are both simple an
 
 - [python-roadmap](https://github.com/zen-dix/python-roadmap) — My daily coding journey and backend experiments
 
+-  [CLI-Local-Monkeytype](https://github.com/zen-dix/CLI-Local-Monkeytype) — Command-line typing test
+
 - [olympiad\_tasks](https://github.com/zen-dix/olympiad_tasks) — Solutions for olympiad and algorithmic problems
 
 - [todo-cli](https://github.com/zen-dix/todo-cli) — Functional command-line task manager
 
--  [CLI-Local-Monkeytype](https://github.com/zen-dix/CLI-Local-Monkeytype) — Command-line typing test
+
 
 ### Tech & Environment
 
