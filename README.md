@@ -24,16 +24,6 @@ I enjoy solving problems through code and building tools that are both simple an
 - Developing practical CLI tools and small web services
 
 
-### 🛠️ Featured Projects
-
-- [python-roadmap](https://github.com/zen-dix/python-roadmap) — Personal learning journal tracking the path to Junior Backend Developer. Daily Python practice, algorithms, and backend concepts organized by day.
-
--  [CLI-Local-Monkeytype](https://github.com/zen-dix/CLI-Local-Monkeytype) — Lightweight, flicker-free TUI typing tutor in Python. Practice touch typing right in your terminal with English/Russian dictionaries, WPM & accuracy tracking, session history, and Vim keybindings.
-
-- [olympiad\_tasks](https://github.com/zen-dix/olympiad_tasks) — Solutions for olympiad and algorithmic problems
-
-- [todo-cli](https://github.com/zen-dix/todo-cli) — Functional command-line task manager
-
 
 ### 📚 Learning & Future Plans
 
