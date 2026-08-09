@@ -4,6 +4,12 @@
 
 I enjoy solving problems through code and building tools that are both simple and effective. Currently focusing on growing into a reliable backend developer.
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zen-dix&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zen-dix&layout=compact&theme=dark&hide_border=true)
+
 ### 💻 What I'm working on
 
 - Consistent daily practice to master Python and software engineering fundamentals
