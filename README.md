@@ -12,7 +12,9 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zen-dix&theme=dark&hide_border=true)
 
+### 🐧 Tech & Environment
 
+[![My Skills](https://skillicons.dev/icons?i=python,linux,git,neovim,bash&theme=dark&perline=5)](https://skillicons.dev)
 
 ### 💻 What I'm working on
 
@@ -22,13 +24,6 @@ I enjoy solving problems through code and building tools that are both simple an
 
 - Developing practical CLI tools and small web services
 
-### 📚 Learning & Future Plans
-
-- **Backend development**: FastAPI, REST/GraphQL APIs, databases (PostgreSQL, SQLAlchemy), aiogram
-
-- **Languages**: C++, Go, Rust
-
-- System design and clean architecture
 
 ### 🛠️ Featured Projects
 
@@ -41,10 +36,9 @@ I enjoy solving problems through code and building tools that are both simple an
 - [todo-cli](https://github.com/zen-dix/todo-cli) — Functional command-line task manager
 
 
+### 📚 Learning & Future Plans
 
-### 🐧 Tech & Environment
-
-[![My Skills](https://skillicons.dev/icons?i=python,linux,git,neovim,bash&theme=dark&perline=5)](https://skillicons.dev)
+[![Plans](https://skillicons.dev/icons?i=fastapi,postgres,sqlite,docker,go,rust,cpp&theme=dark&perline=4)](https://skillicons.dev)
 
 ### 💬 Get in touch
 
