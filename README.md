@@ -10,6 +10,12 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zen-dix&layout=compact&theme=dark&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=zen-dix&theme=dark&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=zen-dix&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zen-dix&theme=github-dark&hide_border=true&area=true)
+
 ### 💻 What I'm working on
 
 - Consistent daily practice to master Python and software engineering fundamentals
