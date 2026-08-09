@@ -44,18 +44,9 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ### 🐧 Tech & Environment
 
-- **Primary language**: Python 3
-
-- **OS**: Linux (CachyOS)
-
-- **Editor**: Neovim
-
-- **Other**: Git, Obsidian, Bash, hyprland
-
 [![My Skills](https://skillicons.dev/icons?i=python,linux,git,neovim,bash&theme=dark&perline=5)](https://skillicons.dev)
 
 ### 💬 Get in touch
 
 - Telegram: [@zendix](https://t.me/zendix)
-
 
