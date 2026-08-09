@@ -45,3 +45,6 @@ I enjoy solving problems through code and building tools that are both simple an
 
 - Telegram: [@zendix](https://t.me/zendix)
 
+- Gmail: [zendix.dev@gmail.com](mailto:zendix.dev@gmail.com)
+
+
