@@ -12,6 +12,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zen-dix&theme=dark&hide_border=true)
 
+![Profile views](https://komarev.com/ghpvc/?username=zen-dix&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 💻 What I'm working on
 
