@@ -1,10 +1,10 @@
-# Hi, I'm zendix
+# 👋️ Hi, I'm zendix
 
 **Python Developer | Linux Enthusiast**
 
 I enjoy solving problems through code and building tools that are both simple and effective. Currently focusing on growing into a reliable backend developer.
 
-### What I'm working on
+### 💻 What I'm working on
 
 - Consistent daily practice to master Python and software engineering fundamentals
 
@@ -12,7 +12,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 - Developing practical CLI tools and small web services
 
-### Learning & Future Plans
+### 📚 Learning & Future Plans
 
 - **Backend development**: FastAPI, REST/GraphQL APIs, databases (PostgreSQL, SQLAlchemy), aiogram
 
@@ -20,7 +20,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 - System design and clean architecture
 
-### Featured Projects
+### 🛠️ Featured Projects
 
 - [python-roadmap](https://github.com/zen-dix/python-roadmap) — My daily coding journey and backend experiments
 
@@ -32,7 +32,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 
 
-### Tech & Environment
+### 🐧 Tech & Environment
 
 - **Primary language**: Python 3
 
@@ -42,7 +42,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 - **Other**: Git, Obsidian, Bash, hyprland
 
-### Get in touch
+### 💬 Get in touch
 
 - Telegram: [@zendix](https://t.me/zendix)
 
