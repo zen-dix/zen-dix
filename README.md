@@ -38,6 +38,7 @@ I enjoy solving problems through code and building tools that are both simple an
 ### 📚 Learning & Future Plans
 
 [![Plans](https://skillicons.dev/icons?i=fastapi,flask,postgres,sqlite,docker,go,rust,cpp&theme=dark&perline=4)](https://skillicons.dev)
+
 ![aiogram](https://img.shields.io/badge/aiogram-2C2C2C?style=flat&logo=telegram&logoColor=white)
 
 ### 💬 Get in touch
