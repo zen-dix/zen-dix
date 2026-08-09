@@ -13,7 +13,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ### ⚙️ Tech & Environment
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,git,neovim,bash,obsidian&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,linux,git,neovim,bash,obsidian&theme=dark&perline=6)](https://skillicons.dev)
 
 ### 💻 What I'm working on
 
@@ -37,7 +37,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ### 📚 Learning & Future Plans
 
-[![Plans](https://skillicons.dev/icons?i=fastapi,flask,postgres,sqlite,docker,go,rust,cpp&theme=dark&perline=4)](https://skillicons.dev)
+[![Plans](https://skillicons.dev/icons?i=fastapi,flask,postgres,sqlite,docker,go,rust,cpp&theme=dark&perline=6)](https://skillicons.dev)
 
 ![aiogram](https://img.shields.io/badge/aiogram-2C2C2C?style=flat&logo=telegram&logoColor=white)
 
