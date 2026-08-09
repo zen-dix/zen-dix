@@ -38,7 +38,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ### 📚 Learning & Future Plans
 
-[![Plans](https://skillicons.dev/icons?i=fastapi,postgres,sqlite,docker,go,rust,cpp&theme=dark&perline=4)](https://skillicons.dev)
+[![Plans](https://skillicons.dev/icons?i=fastapi,flask,postgres,sqlite,docker,go,rust,cpp&theme=dark&perline=4)](https://skillicons.dev)
 
 ### 💬 Get in touch
 
