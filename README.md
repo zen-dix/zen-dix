@@ -10,9 +10,9 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=zen-dix&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)![GitHub Streak](https://streak-stats.demolab.com/?user=zen-dix&theme=dark&hide_border=true)
 
-### 🐧 Tech & Environment
+### ⚙️ Tech & Environment
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,git,neovim,bash&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,linux,git,neovim,bash,obsidian&theme=dark&perline=5)](https://skillicons.dev)
 
 ### 💻 What I'm working on
 
