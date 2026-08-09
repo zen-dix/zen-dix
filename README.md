@@ -6,9 +6,9 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zen-dix&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=zen-dix&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zen-dix&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zen-dix&layout=compact&theme=dark&hide_border=true)
 
 ### 💻 What I'm working on
 
