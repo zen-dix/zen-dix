@@ -12,7 +12,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zen-dix&theme=dark&hide_border=true)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=zen-dix&theme=onedark&no-frame=true&column=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ТВОЙ_НИК)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zen-dix&theme=github-dark&hide_border=true&area=true)
 
