@@ -33,8 +33,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ### 💬 Get in touch
 
-- Telegram: [@zendix](https://t.me/zendix)
-
-- Gmail: [zendix.dev@gmail.com](mailto:zendix.dev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zendix)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zendix.dev@gmail.com)
 
 
