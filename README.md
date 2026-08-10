@@ -6,7 +6,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ### 📊 GitHub Stats
 
-![views](https://komarev.com/ghpvc/?username=zen-dix&color=green)
+![views](https://komarev.com/ghpvc/?username=zen-dix&color=gray)
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zen-dix&layout=compact&theme=dark&hide_border=true)
 
