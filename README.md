@@ -8,8 +8,6 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zen-dix&layout=compact&theme=dark&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=zen-dix&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zen-dix&theme=dark&hide_border=true)
 
