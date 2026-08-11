@@ -13,9 +13,24 @@ I enjoy solving problems through code and building tools that are both simple an
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=zen-dix&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zen-dix&theme=dark&hide_border=true)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zen-dix&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen-dix&layout=compact&theme=dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zen-dix&theme=dark&hide_border=true"/>
+</p>
+
 ### ⚙️ Tech & Environment
 
 [![My Skills](https://skillicons.dev/icons?i=python,linux,git,neovim,bash,obsidian&theme=dark&perline=6)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,linux,git,neovim,bash,obsidian&theme=dark&perline=6" />
+  </a>
+</p>
 
 ### 💻 What I'm working on
 
@@ -30,6 +45,12 @@ I enjoy solving problems through code and building tools that are both simple an
 ### 📚 Learning & Future Plans
 
 [![Plans](https://skillicons.dev/icons?i=fastapi,flask,postgres,sqlite,docker,go,rust,cpp&theme=dark&perline=6)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,sqlite,docker,go,rust,cpp&theme=dark&perline=6" />
+  </a>
+</p>
 
 ![aiogram](https://img.shields.io/badge/aiogram-2C2C2C?style=flat&logo=telegram&logoColor=white)
 
