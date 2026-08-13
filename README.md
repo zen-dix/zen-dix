@@ -16,10 +16,12 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ### 🐍 Contribution Snake
 
+### 🐍 Contribution Snake
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zen-dix/zen-dix/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zen-dix/zen-dix/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/zen-dix/zen-dix/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zen-dix/zen-dix/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zen-dix/zen-dix/output/github-contribution-grid-snake.svg?v=2" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zen-dix/zen-dix/output/github-contribution-grid-snake.svg?v=2" />
 </picture>
 
 ### ⚙️ Tech & Environment
