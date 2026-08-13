@@ -13,6 +13,15 @@ I enjoy solving problems through code and building tools that are both simple an
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=zen-dix&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zen-dix&theme=dark&hide_border=true)
 
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zen-dix/zen-dix/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zen-dix/zen-dix/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zen-dix/zen-dix/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ### ⚙️ Tech & Environment
 
 [![My Skills](https://skillicons.dev/icons?i=python,linux,git,neovim,bash,obsidian,sqlite&theme=dark&perline=6)](https://skillicons.dev)
