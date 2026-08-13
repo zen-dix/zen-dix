@@ -11,6 +11,7 @@ I enjoy solving problems through code and building tools that are both simple an
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zen-dix&layout=compact&theme=dark&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=zen-dix&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zen-dix&theme=dark&hide_border=true)
 
 ### 🐍 Contribution Snake
@@ -32,8 +33,6 @@ I enjoy solving problems through code and building tools that are both simple an
 - Algorithmic problem solving and competitive programming
 
 - Developing practical CLI tools and small web services
-
-
 
 ### 📚 Learning & Future Plans
 
