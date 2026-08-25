@@ -22,7 +22,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ### ⚙️ Tech & Environment
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,git,neovim,bash,obsidian,sqlite&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,linux,arch,git,neovim,bash,obsidian,sqlite&theme=dark&perline=6)](https://skillicons.dev)
 
 ### 💻 Currently Learning
 
