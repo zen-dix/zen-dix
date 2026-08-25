@@ -1,6 +1,6 @@
 # 👋️ Hi, I'm zendix
 
-**Python Developer | Linux Enthusiast**
+**Python Developer • Linux Enthusiast**
 
 I enjoy solving problems through code and building tools that are both simple and effective. Currently focusing on growing into a reliable backend developer.
 
