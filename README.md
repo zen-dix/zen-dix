@@ -24,13 +24,9 @@ I enjoy solving problems through code and building tools that are both simple an
 
 [![My Skills](https://skillicons.dev/icons?i=python,linux,git,neovim,bash,obsidian,sqlite&theme=dark&perline=6)](https://skillicons.dev)
 
-### 💻 What I'm working on
+### 💻 Currently Learning
 
-- Consistent daily practice to master Python and software engineering fundamentals
-
-- Algorithmic problem solving and competitive programming
-
-- Developing practical CLI tools and small web services
+![Python Async](https://img.shields.io/badge/Python-Async%2FAwait-blue?logo=python&logoColor=white)
 
 ### 📚 Learning & Future Plans
 
