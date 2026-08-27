@@ -24,7 +24,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 [![My Skills](https://skillicons.dev/icons?i=python,linux,arch,git,github,neovim,bash,obsidian,sqlite&theme=dark&perline=6)](https://skillicons.dev)
 
-![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat&logo=wayland&logoColor=black)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat&logo=wayland&?style=for-the-badge)
 
 ### 💻 Currently Learning
 
