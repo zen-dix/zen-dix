@@ -22,7 +22,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ### ⚙️ Tech & Environment
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,arch,git,github,neovim,bash,obsidian,sqlite&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,linux,arch,git,github,neovim,bash,obsidian,sqlite&theme=dark&perline=6)](https://skillicons.dev)
 
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat&logo=wayland&logoColor=black)
 
@@ -32,7 +32,7 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ### 📚 Learning & Future Plans
 
-[![Plans](https://skillicons.dev/icons?i=fastapi,flask,postgres,docker,nginx,go,rust,cpp,lua&theme=dark&perline=6)](https://skillicons.dev)
+[![Plans](https://skillicons.dev/icons?i=fastapi,flask,postgres,docker,nginx,go,rust,lua&theme=dark&perline=6)](https://skillicons.dev)
 
 ![aiogram](https://img.shields.io/badge/aiogram-2C2C2C?style=flat&logo=telegram&logoColor=white)
 
