@@ -26,10 +26,6 @@ I enjoy solving problems through code and building tools that are both simple an
 
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat&logo=wayland&logoColor=black)
 
-### 💻 Currently Learning
-
-![Python Async](https://img.shields.io/badge/Python-Async%2FAwait-blue?logo=python&logoColor=white)
-
 ### 📚 Learning & Future Plans
 
 [![Plans](https://skillicons.dev/icons?i=fastapi,flask,postgres,docker,nginx,go,rust,lua&theme=dark&perline=6)](https://skillicons.dev)
